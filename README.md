@@ -1,6 +1,6 @@
 <div class="programming-languages">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=1000&color=0F28F7&background=A700FF00&repeat=false&random=false&width=435&lines=Programming+Languages%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=1000&color=0F28F7&background=A700FF00&repeat=true&random=false&width=435&lines=Programming+Languages%3A" alt="Typing SVG" />
   </a>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
