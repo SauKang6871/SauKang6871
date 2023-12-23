@@ -60,7 +60,7 @@
 
 <div class="database">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=10000&pause=4000&color=0BD708&repeat=true&random=false&width=435&lines=Database%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=4000&color=0BD708&repeat=true&random=false&width=435&lines=Database%3A" alt="Typing SVG" />
   </a>
   <p align="left">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -74,7 +74,7 @@
 
 <div class="devops">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=10000&pause=4000&color=EB0BDE&repeat=true&random=false&width=435&lines=Devops%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=4000&color=EB0BDE&repeat=true&random=false&width=435&lines=Devops%3A" alt="Typing SVG" />
   </a>
   <p align="left">
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
 
 <div class="framework">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=9500&pause=4000&color=E1DE00&repeat=true&random=false&width=435&lines=Framework%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=4000&color=E1DE00&repeat=true&random=false&width=435&lines=Framework%3A" alt="Typing SVG" />
   </a>
   <p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
@@ -105,7 +105,7 @@
 
 <div class="other-tools">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=10000&pause=4000&color=000000&repeat=true&random=false&width=435&lines=Other%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=5000&pause=4000&color=000000&repeat=true&random=false&width=435&lines=Other%3A" alt="Typing SVG" />
   </a>
   <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
