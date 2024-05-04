@@ -124,5 +124,5 @@
 </div>
 
 <p align="center">
-  <img src="[https://leetcode-badge-showcase.vercel.app/api?username=SauKang&theme=nightowl](https://leetcode-badge-showcase.vercel.app/api?username=SauKang&theme=nightowl)" alt="LeetCode Badges"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SauKang&theme=nightowl" alt="LeetCode Badges"/>
 </p>
